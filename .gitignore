@@ -1,7 +1,14 @@
 *
 *~
 !/*
+!/*/*/
 !.gitignore
 !*.cpp
 !*.h
+!*.ui
+!*.pro
 !Makefile
+.gitignore~
+/*/*/Makefile*
+/*/*/build-*/
+ui_*.h
